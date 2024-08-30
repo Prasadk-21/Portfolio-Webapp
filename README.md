@@ -59,6 +59,5 @@ Feel free to reach out if you'd like to connect or discuss potential opportuniti
 
 ---
 
-You can Browse it at : (https://portfolio-webapp-ebon.vercel.app/)
-Thank you for visiting my portfolio!
+You can Browse My Portfolio at : (https://portfolio-webapp-ebon.vercel.app)
 
