@@ -27,7 +27,6 @@ My Personal Portfolio.
   - [Easy To Use]
   - [Eye Catchy]
   - [Seamless Transitions]
-- [https://personal-portfolio-kappa-gilt.vercel.app/]
 
 ### [CRUD App]
 A full stack CRUD App where you can Update, Delete or Add any User.
