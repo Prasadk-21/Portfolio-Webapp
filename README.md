@@ -36,8 +36,8 @@ A full stack CRUD App where you can Update, Delete or Add any User.
   - [Add User]
   - [Update User]
   - [Remove User]
-- [[frontend](https://github.com/Prasadk-21/frontend-CRUD)]
-- [[backend](https://github.com/Prasadk-21/backend-CRUD)]
+- [[frontend code here](https://github.com/Prasadk-21/frontend-CRUD)]
+- [[backend code here](https://github.com/Prasadk-21/backend-CRUD)]
 
 ### [Titanic_Survival_Prediction]
 A Logistic Regression Approach that predicts the likely survival of people rided on titanic.
